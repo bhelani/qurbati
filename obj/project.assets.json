@@ -1261,19 +1261,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bmhel\\.nuget\\packages\\": {}
+    "/Users/majdibrahim/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#Projects\\ToDoList\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "/Users/majdibrahim/dotNet/TodoList/TodoApi/TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\C#Projects\\ToDoList\\TodoApi\\TodoApi.csproj",
-      "packagesPath": "C:\\Users\\bmhel\\.nuget\\packages\\",
-      "outputPath": "C:\\C#Projects\\ToDoList\\TodoApi\\obj\\",
+      "projectPath": "/Users/majdibrahim/dotNet/TodoList/TodoApi/TodoApi.csproj",
+      "packagesPath": "/Users/majdibrahim/.nuget/packages/",
+      "outputPath": "/Users/majdibrahim/dotNet/TodoList/TodoApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bmhel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/majdibrahim/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -1325,7 +1325,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
       }
     }
   }
