@@ -8,3 +8,9 @@ builder.Services.Configure<TaskCollectionDbSettings>(
     builder.Configuration.GetSection("TaskCollectionDb"));  
 
 builder.Services.AddSingleton<TasksService>();
+
+var app = builder.Build();
+
+app.MapGet("/", () => "Hello World!");
+
+app.Run();

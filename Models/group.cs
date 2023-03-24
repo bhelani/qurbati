@@ -1,4 +1,4 @@
-using MongoDB.Bson;
+/*using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
 namespace Group;
@@ -12,4 +12,4 @@ public class GroupDbSetting{
     public double TotalPoints { get; set; }
     public List<int> Members { get; set; }
     public int OwnerId { get; set; }
-}
+}*/

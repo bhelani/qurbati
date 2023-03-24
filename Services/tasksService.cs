@@ -1,12 +1,12 @@
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 using TaskCollectionApi.Models;
+ 
 
 namespace TaskCollectionApi.Services;
 
 public class TasksService
-{
+{ 
     private readonly IMongoCollection<TaskModel> _tasksCollection;
 
     public TasksService(
