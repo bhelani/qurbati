@@ -1,4 +1,4 @@
-namespace UserCollectionApi.Models;
+/*namespace UserCollectionApi.Models;
 
 public class UserCollectionDbSettings
 {
@@ -7,4 +7,4 @@ public class UserCollectionDbSettings
     public string DatabaseName { get; set; } = null!;
 
     public string UsersCollectionName { get; set; } = null!;
-}
+}*/

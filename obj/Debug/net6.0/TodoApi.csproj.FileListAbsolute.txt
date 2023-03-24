@@ -31,3 +31,16 @@ C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abs
 C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\C#Projects\ToDoList\TodoApi\obj\Debug\net6.0\TodoApi.csproj.CopyComplete
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\DnsClient.dll
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\SharpCompress.dll
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\Snappier.dll
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\ZstdSharp.dll
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll

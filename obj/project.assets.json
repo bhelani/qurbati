@@ -1266,11 +1266,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#Projects\\ToDoList\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "c:\\C#Projects\\ToDoList\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\C#Projects\\ToDoList\\TodoApi\\TodoApi.csproj",
+      "projectPath": "c:\\C#Projects\\ToDoList\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\bmhel\\.nuget\\packages\\",
-      "outputPath": "C:\\C#Projects\\ToDoList\\TodoApi\\obj\\",
+      "outputPath": "c:\\C#Projects\\ToDoList\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bmhel\\AppData\\Roaming\\NuGet\\NuGet.Config"

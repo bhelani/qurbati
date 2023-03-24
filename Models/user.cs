@@ -1,6 +1,5 @@
-using MongoDB.Bson;
+/*using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
-using UserCollectionApi.Models;
 
 
 namespace User;
@@ -17,4 +16,4 @@ public class UserDbSetting
     public string Password { get; set; }
     public double Points { get; set; }
     public string Token { get; set; }
-}
+}*/
