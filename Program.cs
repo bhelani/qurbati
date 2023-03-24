@@ -12,12 +12,13 @@ builder.Services.AddDbContext<TodoDb>(opt => opt.UseInMemoryDatabase("TodoList")
 var app = builder.Build();*/
 
 var builder = WebApplication.CreateBuilder(args);
-
-var app=builder.Build();
-
+{
 builder.Services.Configure<UserCollectionDbSettings>(
     builder.Configuration.GetSection("UserCollectionDb"));  
+}
 
+var app=builder.Build();
+{
 builder.Services.AddSingleton<TasksService>(); 
-
+}
 app.Run();
