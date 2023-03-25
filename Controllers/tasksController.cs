@@ -14,7 +14,7 @@ public class TasksController : ControllerBase
         _tasksService = tasksService;
 
     [HttpGet]
-    public async Task<List<TaskModel>> Get() =>
+    public async Task<List<TaskModel>> Get() => 
         await _tasksService.GetAsync();
 
     [HttpGet("{id:length(24)}")]
