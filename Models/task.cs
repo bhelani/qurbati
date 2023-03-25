@@ -9,9 +9,9 @@ public class TaskModel{
     public string Id { get; set; }
     [BsonElement("Title")]
     public string Title { get; set; }
-    public DateTime Duration { get; set; }
-    public string Content { get; set; }
-    public double Reward { get; set; }
-    public int Priority { get; set; }
-    public string Status { get; set; }
+    //public DateTime Duration { get; set; }
+    //public string Content { get; set; }
+    //public double Reward { get; set; }
+    //public int Priority { get; set; }
+    //public string Status { get; set; }
 }
