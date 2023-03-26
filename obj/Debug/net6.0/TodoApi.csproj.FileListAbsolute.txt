@@ -90,3 +90,8 @@ C:/C#Projects/ToDoList/TodoApi/obj/Debug/net6.0/ref/TodoApi.dll
 /Users/majdibrahim/dotNet/TodoList/TodoApi/obj/Debug/net6.0/TodoApi.pdb
 /Users/majdibrahim/dotNet/TodoList/TodoApi/obj/Debug/net6.0/TodoApi.genruntimeconfig.cache
 /Users/majdibrahim/dotNet/TodoList/TodoApi/obj/Debug/net6.0/ref/TodoApi.dll
+/Users/majdibrahim/dotNet/TodoList/TodoApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/majdibrahim/dotNet/TodoList/TodoApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/majdibrahim/dotNet/TodoList/TodoApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/majdibrahim/dotNet/TodoList/TodoApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/majdibrahim/dotNet/TodoList/TodoApi/obj/Debug/net6.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs

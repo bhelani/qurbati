@@ -1,12 +1,12 @@
 using TaskCollectionApi.Models;
 using TaskCollectionApi.Services;
 using Microsoft.AspNetCore.Mvc;
-
+using System;
 namespace TaskCollectionApi.Controllers;
 
-[ApiController]
+[Controller]
 [Route("api/[controller]")]
-public class TasksController : ControllerBase
+public class TasksController : Controller
 {
     private readonly TasksService _tasksService;
 
