@@ -19,12 +19,16 @@ C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
 C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\MongoDB.Bson.dll
 C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\MongoDB.Driver.dll
 C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\MongoDB.Driver.Core.dll
 C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
 C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\SharpCompress.dll
 C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\Snappier.dll
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\ZstdSharp.dll
 C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
 C:\C#Projects\ToDoList\TodoApi\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
@@ -34,6 +38,7 @@ C:\C#Projects\ToDoList\TodoApi\obj\Debug\net6.0\TodoApi.GeneratedMSBuildEditorCo
 C:\C#Projects\ToDoList\TodoApi\obj\Debug\net6.0\TodoApi.AssemblyInfoInputs.cache
 C:\C#Projects\ToDoList\TodoApi\obj\Debug\net6.0\TodoApi.AssemblyInfo.cs
 C:\C#Projects\ToDoList\TodoApi\obj\Debug\net6.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\C#Projects\ToDoList\TodoApi\obj\Debug\net6.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
 C:\C#Projects\ToDoList\TodoApi\obj\Debug\net6.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
 C:\C#Projects\ToDoList\TodoApi\obj\Debug\net6.0\staticwebassets.build.json
 C:\C#Projects\ToDoList\TodoApi\obj\Debug\net6.0\staticwebassets.development.json

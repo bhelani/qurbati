@@ -1,12 +1,12 @@
 using TaskCollectionApi.Models;
 using TaskCollectionApi.Services;
 using Microsoft.AspNetCore.Mvc;
-
+using System;
 namespace TaskCollectionApi.Controllers;
 
-[ApiController]
+[Controller]
 [Route("api/[controller]")]
-public class TasksController : ControllerBase
+public class TasksController : Controller
 {
     private readonly TasksService _tasksService;
 
@@ -14,7 +14,7 @@ public class TasksController : ControllerBase
         _tasksService = tasksService;
 
     [HttpGet]
-    public async Task<List<TaskModel>> Get() =>
+    public async Task<List<TaskModel>> Get() => 
         await _tasksService.GetAsync();
 
     [HttpGet("{id:length(24)}")]

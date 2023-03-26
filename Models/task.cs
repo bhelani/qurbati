@@ -1,6 +1,6 @@
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
-
+using System.Text.Json.Serialization;
 namespace TaskCollectionApi.Models;
 public class TaskModel{
     //Id is my unique identifier (Bson allows us to use multiple databases and give the elements still unique Ids)
