@@ -5,7 +5,7 @@ using TaskCollectionApi.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.Configure<TaskCollectionDbSettings>(
-    builder.Configuration.GetSection("MongoDB"));  
+    builder.Configuration.GetSection("BookStoreDatabase"));  
 
 builder.Services.AddSingleton<TasksService>();
 // Add services to the container.
